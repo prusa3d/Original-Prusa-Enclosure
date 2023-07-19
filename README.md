@@ -1,7 +1,7 @@
 # Original-Prusa-Enclosure
 Original Prusa Enclosure 
 
-This repository contains STEP files and STLs of the printed parts.
+This repository contains STEP files and STLs of the Enclosure parts.
 
 **Links**
 
